@@ -35,13 +35,5 @@ running:
 convert -delay 10 -loop 0 *.png animation.gif
 #+END_SRC
 
-This code is licensed under MIT License, so feel free to modify and/or use it
-in your projects. If you have any doubts, feel free to contact me or contribute
-to this repository by creating an issue.
 
------
 
-This code was presented for the Bio-Inspired Artificial Intelligence course in
-the Computer Science & Technology master's degree @ UC3M. A previous version of
-this code can be found in [[https://github.com/DiegoVicen/ntnu-som][this repository]]. Special thanks to [[https://github.com/leo-labs][Leonard Kleinans]],
-who worked with me in that previous version.
